@@ -38,3 +38,24 @@ Conversational chatbot simulating a fitness coach
 Visual interface preview available
 
 No installation or coding required
+
+🔍 Key Highlights : 
+
+Fully functional no-code AI assistant built on IBM WatsonX
+
+Perfectly aligns with the Agentic AI concept
+
+Lightweight, accessible, and ready for further customization
+
+💡 Future Scope : 
+
+Add voice interaction capabilities
+
+Connect to wearable fitness data for real-time tracking
+
+Expand to support multiple languages
+
+Deploy across platforms (mobile, web)
+
+
+
