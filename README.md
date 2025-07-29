@@ -7,7 +7,7 @@ Many people struggle to stay consistent with fitness due to a lack of personaliz
 
 Fitness Buddy AI Agent solves this by offering dynamic, context-aware, and conversational support to help users stay fit, motivated, and informed—all via a smart, LLM-powered chatbot.
 
-🚀 Technologies Used :
+🚀 TECHNOLOGIES USED :
 
 IBM Cloud Watsonx AI Studio – For managing and deploying LLM-powered agents
 
@@ -17,31 +17,31 @@ Watsonx AI Runtime – For executing AI models
 
 IBM Cloud Agent Lab – To create, configure, and test the AI agent
 
-💡 Key Features (WOW Factors) :
+💡 KEY FEATURES (WOW Factors) :
 
-Personalized fitness and nutrition advice based on user goals
+1.Personalized fitness and nutrition advice based on user goals
 
-Motivational interaction and consistency tracking
+2.Motivational interaction and consistency tracking
 
-Home workout routines without equipment
+3.Home workout routines without equipment
 
-Pre/post-workout meal suggestions
+4.Pre/post-workout meal suggestions
 
-Natural conversation flow with LLM-powered responses
+5.Natural conversation flow with LLM-powered responses
 
-Encourages daily discipline with smart reminders
+6.Encourages daily discipline with smart reminders
 
-👥 End Users :
+👥 END USERS :
 
-Individuals wanting to stay fit from home
+-Individuals wanting to stay fit from home
 
-Students with limited time and equipment
+-Students with limited time and equipment
 
-Working professionals with busy schedules
+-Working professionals with busy schedules
 
-Beginners who need motivation and structure
+-Beginners who need motivation and structure
 
-🛠️ Agent Setup Process :
+🛠️ AGENT SETUP PROCESS :
 
 Created a new AI Agent in IBM Watsonx Assistant
 
@@ -65,7 +65,7 @@ Eating before/after workout
 
 Motivation prompts
 
-📈 Result :
+📈 RESULT :
 
 The Fitness Buddy agent was successfully set up and could:
 
@@ -75,11 +75,11 @@ Adjust tone and motivation based on user prompts
 
 Simulate a real fitness coach using conversational intelligence
 
-🔚 Conclusion :
+🔚 CONCLUSION :
 
 Fitness Buddy demonstrates how IBM Granite and Watsonx Agent tools can be used to create powerful, user-centric AI experiences. It reduces user dependency on traditional apps and adds conversational intelligence to make fitness more engaging and accessible.
 
-🔮 Future Scope :
+🔮FUTURE SCOPE:
 
 Integration with wearable devices
 
