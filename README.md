@@ -12,7 +12,8 @@ In today's fast-paced life, many people find it hard to stick to a fitness routi
 
 --This project was implemented using IBM Cloud Lite services with IBM WatsonX Assistant, following a no-code approach to demonstrate how powerful AI solutions can be created without traditional programming.
 
-⚙️ Technology Used
+⚙️ Technology Used :
+
 1.IBM WatsonX Assistant (no-code chatbot builder)
 
 2.IBM Cloud Lite account
@@ -23,7 +24,8 @@ In today's fast-paced life, many people find it hard to stick to a fitness routi
 
 5.Intent and entity-based response architecture
 
-🚀 Features
+🚀 Features :
+
 Conversational chatbot simulating a fitness coach
 
 --Real-time response to custom prompts like:
@@ -34,4 +36,5 @@ Conversational chatbot simulating a fitness coach
 “Motivate me to stay consistent”
 
 Visual interface preview available
+
 No installation or coding required
