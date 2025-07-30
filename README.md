@@ -43,11 +43,11 @@ IBM Cloud Agent Lab – To create, configure, and test the AI agent
 
 🛠️ AGENT SETUP PROCESS :
 
-Created a new AI Agent in IBM Watsonx Assistant
+• Created a new AI Agent in IBM Watsonx Assistant
 
-Enabled LLM support using Granite model
+• Enabled LLM support using Granite model
 
-Added intents like:
+• Added intents like:
 
 “Create a workout routine”
 
@@ -55,9 +55,9 @@ Added intents like:
 
 “Motivate me to workout”
 
-Previewed the conversation using built-in preview tool
+• Previewed the conversation using built-in preview tool
 
-Captured and documented responses to:
+• Captured and documented responses to:
 
 Arm & leg toning
 
@@ -67,7 +67,7 @@ Motivation prompts
 
 📈 RESULT :
 
-The Fitness Buddy agent was successfully set up and could:
+• The Fitness Buddy agent was successfully set up and could:
 
 Provide useful, relevant workout advice
 
@@ -81,17 +81,17 @@ Fitness Buddy demonstrates how IBM Granite and Watsonx Agent tools can be used t
 
 🔮FUTURE SCOPE:
 
-Integration with wearable devices
+– Integration with wearable devices
 
-Real-time fitness tracking
+– Real-time fitness tracking
 
-Voice interaction
+– Voice interaction
 
-Multilingual support
+– Multilingual support
 
-Personalized analytics based on fitness levels
+– Personalized analytics based on fitness levels
 
-Community support and progress sharing
+– Community support and progress sharing
 
 
 
