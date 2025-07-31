@@ -1,0 +1,8 @@
+Technologies & Tools Used:
+
+- IBM Cloud Lite service
+- IBM Granite Foundation Model
+- Watson Prompt Lab
+- Watsonx.ai
+- Agentic AI (SkillsBuild Hackathon)
+- GitHub for version control and project hosting
