@@ -1,7 +1,7 @@
 # IBM-FitnessBuddy-AI
 An Agentic AI project that acts as a personalized fitness coach powered by IBM Watsonx Assistant and the IBM Granite LLM. It helps users build customized workout routines, nutrition advice, and daily fitness motivation—all without needing external tools or heavy code.
 
-📌 PROBLEM STATEMENT :
+🧠 PROBLEM STATEMENT :
 
 Many people struggle to stay consistent with fitness due to a lack of personalized guidance, structured routines, and motivation. Existing fitness apps often deliver static plans and generic content that may not suit everyone’s lifestyle or health needs.
 
