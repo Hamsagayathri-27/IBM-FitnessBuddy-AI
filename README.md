@@ -7,7 +7,12 @@ This project leverages IBM's cloud-native ecosystem, combining the power of **Wa
 
 
 ## 🚀 Project Overview
-Fitness Buddy is an intelligent AI agent built using IBM Cloud Lite and Granite LLM. It provides personalized home workouts, meal suggestions, and motivational support — all through an engaging conversational interface.
+**Fitness Buddy** is a smart, chat-based AI fitness coach developed using IBM Cloud Lite and Watsonx.ai services. It helps users build healthy routines by providing personalized workout guidance, diet suggestions, and motivation — all through natural conversations.
+
+💬 Built with IBM Granite LLM and Agent Lab, the AI agent understands your needs, remembers your preferences, and gives relevant advice even without any gym equipment.
+
+🎯 This project was developed as part of the IBM SkillsBuild Agentic AI initiative to demonstrate how AI can enhance personal wellness and support a healthier lifestyle in a simple and accessible way.
+
 
 ## 💡 Key Features
 - 🤖 AI-driven fitness coaching
