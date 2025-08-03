@@ -1,4 +1,3 @@
-# IBM-FitnessBuddy-AI
 # 🧘‍♀️ Fitness Buddy – An AI Fitness coach for workouts,meals and motivatiom-anytime
 
 > **Fitness Buddy** is an interactive, AI-driven wellness agent created as part of the IBM SkillsBuild Agentic AI Hackathon. It acts as a friendly digital coach, offering personalized fitness support, reminders, and tips—all through natural conversations.
